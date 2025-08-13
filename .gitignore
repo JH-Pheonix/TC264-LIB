@@ -1,0 +1,17 @@
+# Build output folder
+/Debug/
+
+# Build artifacts
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.mdf
+
+# Backup and temporary files
+*.bak
+*.tmp
+
+# VS Code specific
+/.vscode/
